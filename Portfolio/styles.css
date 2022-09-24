@@ -105,29 +105,46 @@ a:hover{
 
 }
 
+form {
+    margin-left: 200px;
+    
+
+}
+
+form label {
+    text-align:center;
+}
+
 div.transbox {
     background-color: aliceblue;
     
 }
 
 div.transbox p {
+    overflow: none;
     font-weight: bold;
     color: black;
 
 }
 
+#submit {
+    margin-left: 100px;
+}
+
 footer {
-    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 footer p {
     color:#9B26B6;
     text-align: center;
+    font-weight: bold;
 }
 
 footer a {
     text-decoration:none;
     margin-left: 145px;
+    font-weight: bolder;
 }
 
 .foot {
